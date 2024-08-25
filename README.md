@@ -21,6 +21,6 @@ The game will keep track of your score and announce the total prize money won at
 
 ---------------------------  Note  ---------------------------
 
-You have to install pyttsx3 module as its not builtin module. Also the pyttsx3 library may not work as expected in some IDEs or online code editors. For the best experience, run the game in a terminal or command prompt environment.
+You have to install pyttsx3 module as its not Builtin module. Also the pyttsx3 library may not work as expected in some IDEs or online code editors. For the best experience, run the game in a terminal or command prompt environment.
 
  I hope you enjoy playing the game!
