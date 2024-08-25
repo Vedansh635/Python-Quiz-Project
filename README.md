@@ -14,7 +14,7 @@ Animated transitions between questions
 
 ---------------------------  How to Play  ---------------------------
 
-Run the game in a terminal or command prompt environment or any code editor/Ide.
+Run the game in a terminal or command prompt environment or any code editor/IDE.
 Answer each question by typing your response and pressing enter.
 The game will keep track of your score and announce the total prize money won at the end.
 
