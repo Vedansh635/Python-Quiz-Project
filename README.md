@@ -1,4 +1,6 @@
 Quiz Game Project
+
+
 This project is a simple text-based quiz game built using Python. It was created as a learning exercise to test my skills in the early stages of learning Python.
 
 Features
