@@ -5,18 +5,24 @@ This project is a simple text-based quiz game built using Python. It was created
 
 Features
 
-5 questions with increasing prize money
-Voice assistant-like experience using the pyttsx3 library
-Text-based interface for user input
-Score tracking and announcement of total prize money won
-Animated transitions between questions
+1. 5 questions with increasing prize money
+
+2. Voice assistant-like experience using the pyttsx3 library
+
+3. Text-based interface for user input
+   
+4.Score tracking and announcement of total prize money won
+
+5.Animated transitions between questions
 
 
 ---------------------------  How to Play  ---------------------------
 
-Run the game in a terminal or command prompt environment or any code editor/IDE.
-Answer each question by typing your response and pressing enter.
-The game will keep track of your score and announce the total prize money won at the end.
+1. Run the game in a terminal or command prompt environment or any code editor/IDE.
+
+2. Answer each question by typing your response and pressing enter.
+
+3.The game will keep track of your score and announce the total prize money won at the end.
 
 
 ---------------------------  Note  ---------------------------
