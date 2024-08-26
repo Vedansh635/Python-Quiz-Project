@@ -3,8 +3,8 @@
 
 This project is a simple text-based quiz game built using Python. It was created as a learning exercise to test my skills in the early stages of learning Python.
 
-# Features:-<br>
-1. 5 questions with increasing prize money<br>2. Voice assistant-like experience using the `pyttsx3` library<br>3. Text-based interface for user input<br>4. Score tracking and announcement of total prize money won<br>5. Animated transitions between questions
+# Features:-
+<br>1. 5 questions with increasing prize money<br>2. Voice assistant-like experience using the `pyttsx3` library<br>3. Text-based interface for user input<br>4. Score tracking and announcement of total prize money won<br>5. Animated transitions between questions
 
 
 # How to Play<br>
