@@ -8,7 +8,7 @@ This project is a simple text-based quiz game built using Python. It was created
 
 
 # How to Play
-<br>1. Run the game in a terminal or command prompt environment or any code editor/IDE.<br>2. Answer each question by typing your response and pressing enter.<br>3.The game will keep track of your score and announce the total prize money won at the end.
+<br>1. Run the game in a terminal or command prompt environment or any code editor/IDE.<br>2. Answer each question by typing your response and pressing enter.<br>3. The game will keep track of your score and announce the total prize money won at the end.
 
 
 # Note
